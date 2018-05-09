@@ -1,0 +1,16 @@
+{
+  "name": "csv-parser-karthik",
+  "version": "1.0.0",
+  "description": "A simple csv parser for node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sengottaian Karthik",
+  "email": "sengottaiansarasu@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "iconv-lite": "^0.4.23"
+  }
+}
