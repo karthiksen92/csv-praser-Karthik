@@ -1,12 +1,18 @@
 # csv-praser-Karthik
 
-Parsing csv file data into array for node JS.
+Parsing csv file data into array.
 
 ## Installing
 ```
 Run npm install
 Run node index.js
 ```
+## Running the tests
+
+```
+Change the data in sample CSV
+```
+
 ### Related Example
 ```
 * Pavel Kolesnikov "ya-csv": http://github.com/koles/ya-csv
