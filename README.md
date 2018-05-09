@@ -1,11 +1,11 @@
 # csv-praser-Karthik
 
-Parsing csv file data into array.
+Parsing csv file data into array for node JS.
 
 ## Installing
 ```
-*Run npm install.
-*Run node index.js```
+Run npm install
+Run node index.js
 ```
 ### Related Example
 ```
@@ -14,6 +14,6 @@ Parsing csv file data into array.
 * Mat Holt "PapaParse": https://github.com/mholt/PapaParse
 * Adaltas "node-csv": https://github.com/adaltas/node-csv
 ```
-## Authors
+### Authors
 
-* **Karthik Sengottaian** - *Initial work* - [jillix](https://github.com/jillix/a-csv/blob/master/lib/index.js)
+* **Karthik Sengottaian** 
