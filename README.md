@@ -1,8 +1,6 @@
 # csv-praser-Karthik
-Parsing csv file data into array 
-
 Author: Sengottaian Karthik
-This project provides CSV parsing for Node.js.
+Parsing csv file data into array.
 
 Usage
 Installation command is npm install.
